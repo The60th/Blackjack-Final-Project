@@ -1,0 +1,66 @@
+c:\users\justinmbokus\Desktop\Justin_Blackjack\Justin_Blackjack\bin\Debug\Justin_Blackjack.exe.config
+c:\users\justinmbokus\Desktop\Justin_Blackjack\Justin_Blackjack\bin\Debug\Justin_Blackjack.exe
+c:\users\justinmbokus\Desktop\Justin_Blackjack\Justin_Blackjack\bin\Debug\Justin_Blackjack.pdb
+c:\users\justinmbokus\Desktop\Justin_Blackjack\Justin_Blackjack\obj\Debug\Justin_Blackjack.csprojResolveAssemblyReference.cache
+c:\users\justinmbokus\Desktop\Justin_Blackjack\Justin_Blackjack\obj\Debug\Justin_Blackjack.Login_Form.resources
+c:\users\justinmbokus\Desktop\Justin_Blackjack\Justin_Blackjack\obj\Debug\Justin_Blackjack.Properties.Resources.resources
+c:\users\justinmbokus\Desktop\Justin_Blackjack\Justin_Blackjack\obj\Debug\Justin_Blackjack.csproj.GenerateResource.Cache
+c:\users\justinmbokus\Desktop\Justin_Blackjack\Justin_Blackjack\obj\Debug\Justin_Blackjack.exe
+c:\users\justinmbokus\Desktop\Justin_Blackjack\Justin_Blackjack\obj\Debug\Justin_Blackjack.pdb
+c:\users\justinmbokus\Desktop\Justin_Blackjack\Justin_Blackjack\obj\Debug\Justin_Blackjack.Game_Form.resources
+c:\users\justinmbokus\Desktop\Justin_Blackjack\Justin_Blackjack\obj\Debug\Justin_Blackjack.My_MsgBox_Prompt.resources
+C:\Users\AndroidUser\Downloads\BlackJack_Start_4_13\Justin_Blackjack\Justin_Blackjack\bin\Debug\Justin_Blackjack.exe.config
+C:\Users\AndroidUser\Downloads\BlackJack_Start_4_13\Justin_Blackjack\Justin_Blackjack\obj\Debug\Justin_Blackjack.exe
+C:\Users\AndroidUser\Downloads\BlackJack_Start_4_13\Justin_Blackjack\Justin_Blackjack\obj\Debug\Justin_Blackjack.pdb
+C:\Users\AndroidUser\Downloads\BlackJack_Start_4_13\Justin_Blackjack\Justin_Blackjack\bin\Debug\Justin_Blackjack.exe
+C:\Users\AndroidUser\Downloads\BlackJack_Start_4_13\Justin_Blackjack\Justin_Blackjack\bin\Debug\Justin_Blackjack.pdb
+C:\Users\AndroidUser\Downloads\BlackJack_Start_4_13\Justin_Blackjack\Justin_Blackjack\obj\Debug\Justin_Blackjack.csprojResolveAssemblyReference.cache
+C:\Users\AndroidUser\Downloads\BlackJack_Start_4_13\Justin_Blackjack\Justin_Blackjack\obj\Debug\Justin_Blackjack.Game_Form.resources
+C:\Users\AndroidUser\Downloads\BlackJack_Start_4_13\Justin_Blackjack\Justin_Blackjack\obj\Debug\Justin_Blackjack.Login_Form.resources
+C:\Users\AndroidUser\Downloads\BlackJack_Start_4_13\Justin_Blackjack\Justin_Blackjack\obj\Debug\Justin_Blackjack.My_MsgBox_Prompt.resources
+C:\Users\AndroidUser\Downloads\BlackJack_Start_4_13\Justin_Blackjack\Justin_Blackjack\obj\Debug\Justin_Blackjack.Properties.Resources.resources
+C:\Users\AndroidUser\Downloads\BlackJack_Start_4_13\Justin_Blackjack\Justin_Blackjack\obj\Debug\Justin_Blackjack.csproj.GenerateResource.Cache
+C:\Users\AndroidUser\Desktop\BlackJack_Updated_4_18\BlackJack_Start_4_18\Justin_Blackjack\Justin_Blackjack\bin\Debug\Justin_Blackjack.exe.config
+C:\Users\AndroidUser\Desktop\BlackJack_Updated_4_18\BlackJack_Start_4_18\Justin_Blackjack\Justin_Blackjack\obj\Debug\Justin_Blackjack.exe
+C:\Users\AndroidUser\Desktop\BlackJack_Updated_4_18\BlackJack_Start_4_18\Justin_Blackjack\Justin_Blackjack\obj\Debug\Justin_Blackjack.pdb
+C:\Users\AndroidUser\Desktop\BlackJack_Updated_4_18\BlackJack_Start_4_18\Justin_Blackjack\Justin_Blackjack\bin\Debug\Justin_Blackjack.exe
+C:\Users\AndroidUser\Desktop\BlackJack_Updated_4_18\BlackJack_Start_4_18\Justin_Blackjack\Justin_Blackjack\bin\Debug\Justin_Blackjack.pdb
+C:\Users\AndroidUser\Desktop\BlackJack_Updated_4_18\BlackJack_Start_4_18\Justin_Blackjack\Justin_Blackjack\obj\Debug\Justin_Blackjack.csprojResolveAssemblyReference.cache
+C:\Users\AndroidUser\Desktop\BlackJack_Updated_4_18\BlackJack_Start_4_18\Justin_Blackjack\Justin_Blackjack\obj\Debug\Justin_Blackjack.Game_Form.resources
+C:\Users\AndroidUser\Desktop\BlackJack_Updated_4_18\BlackJack_Start_4_18\Justin_Blackjack\Justin_Blackjack\obj\Debug\Justin_Blackjack.Login_Form.resources
+C:\Users\AndroidUser\Desktop\BlackJack_Updated_4_18\BlackJack_Start_4_18\Justin_Blackjack\Justin_Blackjack\obj\Debug\Justin_Blackjack.My_MsgBox_Prompt.resources
+C:\Users\AndroidUser\Desktop\BlackJack_Updated_4_18\BlackJack_Start_4_18\Justin_Blackjack\Justin_Blackjack\obj\Debug\Justin_Blackjack.Properties.Resources.resources
+C:\Users\AndroidUser\Desktop\BlackJack_Updated_4_18\BlackJack_Start_4_18\Justin_Blackjack\Justin_Blackjack\obj\Debug\Justin_Blackjack.csproj.GenerateResource.Cache
+C:\Users\Justi\Desktop\Work In Progress\BlackJack_Updated_4_18\BlackJack_Start_4_18\Justin_Blackjack\Justin_Blackjack\bin\Debug\Justin_Blackjack.exe.config
+C:\Users\Justi\Desktop\Work In Progress\BlackJack_Updated_4_18\BlackJack_Start_4_18\Justin_Blackjack\Justin_Blackjack\bin\Debug\Justin_Blackjack.exe
+C:\Users\Justi\Desktop\Work In Progress\BlackJack_Updated_4_18\BlackJack_Start_4_18\Justin_Blackjack\Justin_Blackjack\bin\Debug\Justin_Blackjack.pdb
+C:\Users\Justi\Desktop\Work In Progress\BlackJack_Updated_4_18\BlackJack_Start_4_18\Justin_Blackjack\Justin_Blackjack\obj\Debug\Justin_Blackjack.Game_Form.resources
+C:\Users\Justi\Desktop\Work In Progress\BlackJack_Updated_4_18\BlackJack_Start_4_18\Justin_Blackjack\Justin_Blackjack\obj\Debug\Justin_Blackjack.Login_Form.resources
+C:\Users\Justi\Desktop\Work In Progress\BlackJack_Updated_4_18\BlackJack_Start_4_18\Justin_Blackjack\Justin_Blackjack\obj\Debug\Justin_Blackjack.My_MsgBox_Prompt.resources
+C:\Users\Justi\Desktop\Work In Progress\BlackJack_Updated_4_18\BlackJack_Start_4_18\Justin_Blackjack\Justin_Blackjack\obj\Debug\Justin_Blackjack.Properties.Resources.resources
+C:\Users\Justi\Desktop\Work In Progress\BlackJack_Updated_4_18\BlackJack_Start_4_18\Justin_Blackjack\Justin_Blackjack\obj\Debug\Justin_Blackjack.csproj.GenerateResource.Cache
+C:\Users\Justi\Desktop\Work In Progress\BlackJack_Updated_4_18\BlackJack_Start_4_18\Justin_Blackjack\Justin_Blackjack\obj\Debug\Justin_Blackjack.exe
+C:\Users\Justi\Desktop\Work In Progress\BlackJack_Updated_4_18\BlackJack_Start_4_18\Justin_Blackjack\Justin_Blackjack\obj\Debug\Justin_Blackjack.pdb
+C:\Users\Justi\Desktop\Work In Progress\BlackJack_Updated_4_18\BlackJack_Start_4_18\Justin_Blackjack\Justin_Blackjack\obj\Debug\Justin_Blackjack.csprojResolveAssemblyReference.cache
+C:\Users\AndroidUser\Desktop\BlackJack_Updated_4_18 - Copy\BlackJack_Start_4_18\Justin_Blackjack\Justin_Blackjack\bin\Debug\Justin_Blackjack.exe.config
+C:\Users\AndroidUser\Desktop\BlackJack_Updated_4_18 - Copy\BlackJack_Start_4_18\Justin_Blackjack\Justin_Blackjack\obj\Debug\Justin_Blackjack.exe
+C:\Users\AndroidUser\Desktop\BlackJack_Updated_4_18 - Copy\BlackJack_Start_4_18\Justin_Blackjack\Justin_Blackjack\obj\Debug\Justin_Blackjack.pdb
+C:\Users\AndroidUser\Desktop\BlackJack_Updated_4_18 - Copy\BlackJack_Start_4_18\Justin_Blackjack\Justin_Blackjack\bin\Debug\Justin_Blackjack.exe
+C:\Users\AndroidUser\Desktop\BlackJack_Updated_4_18 - Copy\BlackJack_Start_4_18\Justin_Blackjack\Justin_Blackjack\bin\Debug\Justin_Blackjack.pdb
+C:\Users\AndroidUser\Desktop\BlackJack_Updated_4_18 - Copy\BlackJack_Start_4_18\Justin_Blackjack\Justin_Blackjack\obj\Debug\Justin_Blackjack.csprojResolveAssemblyReference.cache
+C:\Users\AndroidUser\Desktop\BlackJack_Updated_4_18 - Copy\BlackJack_Start_4_18\Justin_Blackjack\Justin_Blackjack\obj\Debug\Justin_Blackjack.Game_Form.resources
+C:\Users\AndroidUser\Desktop\BlackJack_Updated_4_18 - Copy\BlackJack_Start_4_18\Justin_Blackjack\Justin_Blackjack\obj\Debug\Justin_Blackjack.Login_Form.resources
+C:\Users\AndroidUser\Desktop\BlackJack_Updated_4_18 - Copy\BlackJack_Start_4_18\Justin_Blackjack\Justin_Blackjack\obj\Debug\Justin_Blackjack.My_MsgBox_Prompt.resources
+C:\Users\AndroidUser\Desktop\BlackJack_Updated_4_18 - Copy\BlackJack_Start_4_18\Justin_Blackjack\Justin_Blackjack\obj\Debug\Justin_Blackjack.Properties.Resources.resources
+C:\Users\AndroidUser\Desktop\BlackJack_Updated_4_18 - Copy\BlackJack_Start_4_18\Justin_Blackjack\Justin_Blackjack\obj\Debug\Justin_Blackjack.csproj.GenerateResource.Cache
+C:\Users\Justi\Desktop\Work In Progress\BlackJack_Updated_4_18 - Current\BlackJack_Start_4_18\Justin_Blackjack\Justin_Blackjack\bin\Debug\Justin_Blackjack.exe.config
+C:\Users\Justi\Desktop\Work In Progress\BlackJack_Updated_4_18 - Current\BlackJack_Start_4_18\Justin_Blackjack\Justin_Blackjack\obj\Debug\Justin_Blackjack.exe
+C:\Users\Justi\Desktop\Work In Progress\BlackJack_Updated_4_18 - Current\BlackJack_Start_4_18\Justin_Blackjack\Justin_Blackjack\obj\Debug\Justin_Blackjack.pdb
+C:\Users\Justi\Desktop\Work In Progress\BlackJack_Updated_4_18 - Current\BlackJack_Start_4_18\Justin_Blackjack\Justin_Blackjack\bin\Debug\Justin_Blackjack.exe
+C:\Users\Justi\Desktop\Work In Progress\BlackJack_Updated_4_18 - Current\BlackJack_Start_4_18\Justin_Blackjack\Justin_Blackjack\bin\Debug\Justin_Blackjack.pdb
+C:\Users\Justi\Desktop\Work In Progress\BlackJack_Updated_4_18 - Current\BlackJack_Start_4_18\Justin_Blackjack\Justin_Blackjack\obj\Debug\Justin_Blackjack.csprojResolveAssemblyReference.cache
+C:\Users\Justi\Desktop\Work In Progress\BlackJack_Updated_4_18 - Current\BlackJack_Start_4_18\Justin_Blackjack\Justin_Blackjack\obj\Debug\Justin_Blackjack.Game_Form.resources
+C:\Users\Justi\Desktop\Work In Progress\BlackJack_Updated_4_18 - Current\BlackJack_Start_4_18\Justin_Blackjack\Justin_Blackjack\obj\Debug\Justin_Blackjack.Login_Form.resources
+C:\Users\Justi\Desktop\Work In Progress\BlackJack_Updated_4_18 - Current\BlackJack_Start_4_18\Justin_Blackjack\Justin_Blackjack\obj\Debug\Justin_Blackjack.My_MsgBox_Prompt.resources
+C:\Users\Justi\Desktop\Work In Progress\BlackJack_Updated_4_18 - Current\BlackJack_Start_4_18\Justin_Blackjack\Justin_Blackjack\obj\Debug\Justin_Blackjack.Properties.Resources.resources
+C:\Users\Justi\Desktop\Work In Progress\BlackJack_Updated_4_18 - Current\BlackJack_Start_4_18\Justin_Blackjack\Justin_Blackjack\obj\Debug\Justin_Blackjack.csproj.GenerateResource.Cache
